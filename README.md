@@ -1,2 +1,2 @@
-# Ecomerce
-My ecomerce site project
+# Ecommerce
+this is about ecomerce project
